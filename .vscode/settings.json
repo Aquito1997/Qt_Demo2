@@ -1,0 +1,11 @@
+{
+  "editor.mouseWheelZoom": true,
+  "window.zoomLevel": 1,
+  "terminal.integrated.mouseWheelZoom": true,
+  "workbench.tree.indent": 16,
+  "cSpell.words": ["libfreetyped", "Storei", "Widgetsd"],
+  "cmake.languageSupport.dotnetPath": "dotnet",
+  "cmake.generator": "MinGW Makefiles",
+  "cmake.default.generator": "MinGW Makefiles"
+  // "qt-support.qtInstallDirectories": ["/opt/Qt_5_10/5.10.0"]
+}
